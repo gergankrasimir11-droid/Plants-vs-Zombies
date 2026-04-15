@@ -88,3 +88,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e93da5155d4fa94e809e6cb5fdf3f79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  draggedPlantObject: {fileID: 0}
+  plantObject: {fileID: 0}
+  canvas: {fileID: 0}
+  draggedObjectInstance: {fileID: 0}
