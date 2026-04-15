@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 93de4a1039523ab4cb7c5e8000e4cd1a
+guid: 1f6125df5c8370842a81b4b5282ab5f2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3070453432627086885
-    second: Peashooter_0
+      213: -256329436847572505
+    second: Sunflower_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Peashooter_0
+      name: Sunflower_0
       rect:
         serializedVersion: 2
-        x: 278
-        y: 46
-        width: 467
-        height: 479
+        x: 0
+        y: 15
+        width: 1000
+        height: 1137
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bd932e8fede8365d0800000000000000
-      internalID: -3070453432627086885
+      spriteID: 7e9793b3cb5517cf0800000000000000
+      internalID: -256329436847572505
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Peashooter_0: -3070453432627086885
+      Sunflower_0: -256329436847572505
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
